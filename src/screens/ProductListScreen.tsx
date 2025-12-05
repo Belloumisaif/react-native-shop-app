@@ -233,7 +233,7 @@ export const ProductListScreen: React.FC<Props> = ({ navigation }) => {
             ]}
             onPress={() => setSelectedCategory(c)}
           >
-            <Text style={styles.categoryText}>{c}</Text>
+              
           </TouchableOpacity>
         ))}
       </ScrollView>
