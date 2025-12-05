@@ -33,7 +33,7 @@ Refresh the product list by swiping down.
 Loads more products when reaching the bottom of the list.
 
 ❤️ Favorites System
-(assets/Mes Favoris.jpg)
+(./assets/Mes Favoris.jpg)
 
 Add/remove favorites.
 
@@ -42,7 +42,7 @@ Favorites stored in global context.
 Dedicated Favorites screen.
 
 🛒 Cart System
-(assets/Cart.jpg)
+(./assets/Cart.jpg)
 
 Add to cart.
 
@@ -56,8 +56,8 @@ Persistent cart state.
 
 Saves products locally.
 other :
-(assets/home.jpg)
-(assets/details.jpg)
+(./assets/home.jpg)
+(./assets/details.jpg)
 
 
 Allows viewing last loaded products even without internet.
