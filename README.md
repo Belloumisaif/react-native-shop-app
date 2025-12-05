@@ -33,7 +33,7 @@ Refresh the product list by swiping down.
 Loads more products when reaching the bottom of the list.
 
 ❤️ Favorites System
-(./assets/Mes Favoris.jpg)
+![Favorites Screenshot](./assets/Mes Favoris.jpg)
 
 Add/remove favorites.
 
